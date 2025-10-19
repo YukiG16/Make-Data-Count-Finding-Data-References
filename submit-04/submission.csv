@@ -1,0 +1,10 @@
+row_id,article_id,dataset_id,type
+0,10.1002_ece3.9627,https://doi.org/10.5061/dryad.b8gtht7h3,Primary
+1,10.1002_ecs2.4619,PASTA/D835832D7FD00D9E4466E44EEA87FAB3,Secondary
+2,10.1002_ece3.6303,https://doi.org/10.5061/dryad.37pvmcvgb,Primary
+3,10.1002_chem.202001668,K03946,Secondary
+4,10.1002_chem.202001668,K01438,Secondary
+5,10.1002_ece3.4466,https://doi.org/10.5061/dryad.r6nq870,Primary
+6,10.1002_ece3.5260,https://doi.org/10.5061/dryad.2f62927,Primary
+7,10.1002_ece3.6144,https://doi.org/10.5061/dryad.zw3r22854,Primary
+8,10.1002_ecs2.1280,https://doi.org/10.5061/dryad.p3fg9,Primary
